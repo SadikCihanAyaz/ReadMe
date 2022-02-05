@@ -3,13 +3,18 @@
 <table>
 <tr>
   <td valign="center">
+  </br>
     🎓 I am **fullstack developer**.
+  </br>
     🌱 I am currently learning **Elixir, Phoenix and LiveView** also I am developing knowledge about  **Java, Javascript, React and Devops **.
+   </br>
     🎯 I love interested in different type programming language. 
+   </br>
 <td >
-# this is my medium account
-    <a href="https://medium.com/@scayaz.19.19">🌱 🌱 🌱 MEDIUM🌱 🌱🌱  </a>
+    <a href="https://medium.com/@scayaz.19.19">🌱 MEDIUM🌱 <img src="https://miro.medium.com/fit/c/131/131/1*QPZ5v8n8iHVpGTR990162w.png" width="150" alt="Sadık Cihan Ayaz Medium"/>  </a>
   </td>
 
 </tr>
 </table>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SadikCihanAyaz&theme=dracula&hide_border=true)
