@@ -1,6 +1,6 @@
 <div>
  <div>
-    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/header.jpg?raw=true">
+    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/header2.jpg?raw=true">
   </div>
 </div>
 <div>
