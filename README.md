@@ -1,10 +1,14 @@
-<iframe src="https://sadikcihanayaz.github.io/" height="200" width="300" title="Iframe Example"></iframe>
+
+<div>
+
+</div>
+
 <div style="display: block;">
   <div style=" display: inline-block;  width:100px;padding: 5px">
     <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/cihan-1.jpeg?raw=true" alt="Snow" style="width:100%">
   </div>
  <div style=" display: inline-block;  width:100px;padding: 5px; ">
-    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/cihan-1.jpeg?raw=true" alt="Forest" style="width:100%; -webkit-filter: blur(300px); filter: blur(1px);">
+    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/sunset.jpg?raw=true" alt="Forest" style="width:100%; -webkit-filter: blur(300px); filter: blur(1px);">
       
   </div>
   <div style="display: inline-block; width:100px;padding: 5px">
