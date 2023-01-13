@@ -1,22 +1,23 @@
-<div>
- <div>
-    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/header2.jpg?raw=true">
-  </div>
-</div>
-<div>
-
 ```js
-const WhoIAm(){
-	return 'Javascript Developer';
+
+<Header message="WELCOME MY REPO!!"/>
+
+```
+```js
+import React from 'react';
+import {Text} from 'react-native';
+
+interface Props {
+  message: string;
 }
 
-const WhichLanguageDidYouWrite() {
+const Header: React.FC<Props> = props => {
+  const {message} = props;
+  return <Text>{message}</Text>;
+};
 
-  /**I wrote C# and Java a lot.. but focusing Javascript now*/
-	const language = ['C++', 'C#', 'Java'];
+export default Header;
 
-	return language;
-}
 ```
 <table>
   <tr>
