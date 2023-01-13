@@ -22,11 +22,11 @@ const WhichLanguageDidYouWrite() {
 <table>
   <tr>
     <th>GO MY WEBSITE </th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>SEND A MESSAGE</th>
+    <th>CONTACT ME</th>
   </tr>
   <tr>
-    <td>    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/sunset.jpg?raw=true"></td>
+    <td>    <a href="https://sadikcihanayaz.github.io/"><img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/website.png?raw=true"></a></td>
     <td>    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/sunset.jpg?raw=true"></td>
     <td>    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/sunset.jpg?raw=true"></td>
   </tr>
