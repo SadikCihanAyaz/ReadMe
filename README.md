@@ -18,7 +18,6 @@ const WhichLanguageDidYouWrite() {
 	return language;
 }
 ```
-
 <table>
   <tr>
     <th>GO MY WEBSITE </th>
@@ -27,7 +26,7 @@ const WhichLanguageDidYouWrite() {
   </tr>
   <tr>
     <td>    <a href="https://sadikcihanayaz.github.io/"><img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/website.png?raw=true"></a></td>
-    <td>    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/sunset.jpg?raw=true"></td>
+        <td>    <a href="mailto:scayaz.19.19@gmail.com"><img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/website.png?raw=true"></a></td>
     <td>    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/sunset.jpg?raw=true"></td>
   </tr>
 
