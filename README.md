@@ -26,15 +26,9 @@ const WhichLanguageDidYouWrite() {
     <th>Country</th>
   </tr>
   <tr>
-    <td>    <button onclick="window.location.href='https://w3docs.com';">
-      Click Here
-    </button></td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/sunset.jpg?raw=true"></td>
+    <td>    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/sunset.jpg?raw=true"></td>
+    <td>    <img src="https://github.com/SadikCihanAyaz/SadikCihanAyaz/blob/main/images/sunset.jpg?raw=true"></td>
   </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+
 </table>
